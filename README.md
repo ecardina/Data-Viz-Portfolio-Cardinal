@@ -1,29 +1,17 @@
-- Web page URL: https://ecardina.github.io/Data-Viz-Portfolio-Cardinal/
-- This repository: https://github.com/ecardina/Data-Viz-Portfolio-Cardinal
+**Web page URL:** https://ecardina.github.io/Data-Viz-Portfolio-Cardinal/
+**This repository:** https://github.com/ecardina/Data-Viz-Portfolio-Cardinal
 
-# Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
+# *About Me*
+Hello! This is my public profile for Telling Stories with Data--a data viz course at Carnegie Mellon University's Heinz College. My name is Evan Cardinal and I am a first-year master of science, public policy and management (MSPPM) student at Heinz. Throughout my time in graduate school, I yearn to build upon my analytical skill-set to perform responsible and effective data science--hopefully in the burgeoning field of sporting data analytics. 
 
-# About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
-
-# What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
-
-1. List item #1
-2. List item #2
-3. List item #3
-
-or...
+# *What I Hope to Learn*
+In Telling Stories with Data, I strive to learn the intricacies of data visualization to make my future data analysis--in work or even in day-to-day life--more accessible to audiences of all backgrounds. It is one thing to explicate data; presenting these findings to the masses is often the more difficult, yet gratifying goal. More intently, I want to learn the following data viz items that I believe will best serve me as a data scientist in sports analytics post-graduation: 
 
 - List item #1
 - List item #2
 - List item #3
 
 # Portfolio
-
-# Examples
-You can keep this section for stuff from in-class demos or your other work, or remove it. 
 
 ## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
