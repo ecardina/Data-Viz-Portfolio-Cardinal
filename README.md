@@ -14,8 +14,8 @@ In Telling Stories with Data, I strive to learn the intricacies of data visualiz
 
 # *Portfolio*
 
-## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
+## Assignment 2: [Visualizing Government Debt](/dataviz2gov_debt.md)
+Three data visualizations created via Flourish to depict government debt data from OECD nations
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
