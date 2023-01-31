@@ -14,7 +14,7 @@ In Telling Stories with Data, I strive to learn the intricacies of data visualiz
 
 # *Portfolio*
 
-## Assignment 2: [Visualizing Government Debt](/visualizing-government-debt)
+## Assignment 2: [Visualizing Government Debt](visualizing-government-debt.md)
 Three visualizations depicting government debt from OECD data
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
