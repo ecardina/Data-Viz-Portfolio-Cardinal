@@ -14,6 +14,9 @@ In Telling Stories with Data, I strive to learn the intricacies of data visualiz
 
 # *Portfolio*
 
+## [Demos](NewsDemo.md)
+Here are in-class exercises I completed meant to familiarize myself with data viz software, creating various designs, and uploading them to GitHub
+
 ## Assignment 2: [Visualizing Government Debt](visualizing-government-debt.md)
 Three visualizations depicting government debt from OECD data
 
