@@ -21,7 +21,7 @@ Here are in-class exercises I completed meant to familiarize myself with data vi
 Three visualizations depicting government debt from OECD data
 
 ## Assignment 3 & 4: [Critique by Design](critique-by-design.md)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
+In this assignment, I critique an existing data visualization using Stephen Few's Data Visualization Effectiveness Profile, wireframe solutions to improve the visualization based on my observations, seek feedback from peers and friends, and then create a new and improved data visualization encapsulating the suggestions 
 
 ## Final project
 Here it might be helpful to include a high-level description of your final project. 
