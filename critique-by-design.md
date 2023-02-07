@@ -6,3 +6,5 @@
 ### From Neil Paine and Josh Hermsmeyer's February 1, 2023 FiveThirtyEight article [*Which Stars Are Going To Blow Up In Super Bowl LVII?*](https://fivethirtyeight.com/features/which-stars-are-going-to-blow-up-in-super-bowl-lvii/) 
 
 ![The Original Design](./FiveThirtyEightTable.png)
+
+As a devoted Philadelphia Eagles fan, I have a vested interest in this year's Super Bowl. FiveThirtyEight 
