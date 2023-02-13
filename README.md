@@ -24,7 +24,7 @@ Three visualizations depicting government debt from OECD data
 In this assignment, I critique an existing data visualization using Stephen Few's Data Visualization Effectiveness Profile, wireframe solutions to improve the visualization based on my observations, seek feedback from peers and friends, and then create a new and improved data visualization encapsulating the suggestions 
 
 ## Final project
-Here it might be helpful to include a high-level description of your final project. 
-[Part I](final-project-part-one)
+I will be analyzing the issue of sportswashing in the global professional sports landscape in this project. 
+[Part I](final-project-part-one.md)
 [Part II](final-project-part-two)
 Part III(final-project-part-three)
