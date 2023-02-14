@@ -16,16 +16,16 @@ Journalists, academics, and human rights advocates alike categorize these dodgy 
 
 ## Initial sketches
 ### Setup Sketch
-![Setup Sketch](./Final Project - Sketch I.jpg)
+![Setup Sketch](/Final Project - Sketch I.jpg)
 This sketch reflects the setup stage of the story by laying the visual groundwork of the growing sportswashing trend. The linechart is simple, yet effective in delineating the trend while the title itself illustrates the turn in the tide of ownership within the English Premier League--arguably, the most notable first-tier soccer league in the world. The data itself will be scraped from reputable web pages of Premier League clubs as an ownership dataset is not publically available online. 
 
 For the sports revenue point, I think an infographic or a call out statistic may be beneficial to highlight the sheer money-making potential of various sports league of note (e.g. MLB, NBA, NFL, EPL, etc.). Moreover, the grassroots resolution and call to action will benefit from call-outs and/or infographics as well. 
 
 ### Conflict Sketches
-![Conflict Sketch](./Final Project - Sketch II.jpg)
+![Conflict Sketch](/Final Project - Sketch II.jpg)
 Freedom Houses'[global freedom index](https://freedomhouse.org/countries/freedom-world/scores) is a useful tool to categorize states' civil liberties and rights. These scores plot well in a horizontal bar chart or other comparison chart. The "ghost lines" were my attempt to show the gap in the sportswashing violators' scores from better scores. However, an additional line showing the average freedom score for all states and/or including higher ranking countries may make the dataviz resonate more.  
 
-![Conflict Sketch II](./Final Project - Sketch III.jpg)
+![Conflict Sketch II](/Final Project - Sketch III.jpg)
 Albeit a bit crass of a rendering, the minimalist visualization is illustrative of the horrors migrant workers endured in the years leading up to the 2022 World Cup in Qatar. A more polished wireframe may utilize a unit chart type rather than the pictorial approach as it can capture the magnitude of lives lost in a simpler and less triggering rendition of the data. 
 
 # The data
