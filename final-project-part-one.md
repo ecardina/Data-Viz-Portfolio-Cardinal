@@ -8,7 +8,7 @@ Journalists, academics, and human rights advocates alike categorize these dodgy 
 ## Story outline
 ### **Setup:** 
 - Sports are a revenue-generating industry at the highest levels 
-- Foreign investments in the EPL, in particular, is trending upwards over the years
+- Foreign investments in the English Premier League (EPL), in particular, is trending upwards over the years
 ### **Conflict:** 
 - Many foreign investors are sportswashing as they cover their human right abuses 
 ### **Resolution:** 
@@ -26,14 +26,14 @@ For the sports revenue point, I think an infographic or a call out statistic may
 Freedom Houses'[global freedom index](https://freedomhouse.org/countries/freedom-world/scores) is a useful tool to categorize states' civil liberties and rights. These scores plot well in a horizontal bar chart or other comparison chart. The "ghost lines" were my attempt to show the gap in the sportswashing violators' scores from better scores. However, an additional line showing the average freedom score for all states and/or including higher ranking countries may make the dataviz resonate more.  
 
 ![Conflict Sketch II](/Final Project - Sketch III.jpg)
-Albeit a bit crass of a rendering, the minimalist visualization is illustrative of the horrors migrant workers endured in the years leading up to the 2022 World Cup in Qatar. A more polished wireframe may utilize a unit chart type rather than the pictorial approach as it can capture the magnitude of lives lost in a simpler and less triggering rendition of the data. 
+Albeit a bit crass, the minimalist visualization is illustrative of the horrors migrant workers endured in the years leading up to the 2022 World Cup in Qatar. A more polished wireframe may utilize a unit chart type rather than the pictorial approach as it can capture the magnitude of lives lost in a simpler and less triggering rendition of the data. 
 
 # The data
-A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
+For the core conflict of sportswashing, both CIRIGHTS and Freedom House's publically-available data will provide invaluable rankings of nations' human rights records and democratic freedoms. Utilizing US State Department Country Reports on Human Rights Practices from 1999-2021, CIRIGHTS provides a wealth of variables from state-sanctioned imprisonments to freedom of speech that can be visualized in trends and time lapses or even geographic maps in Tableau. Although admittedly more limited in scope, the aforementioned global freedom score from Freedom House can be used as a nice comparative tool demonstrating the lack of freedoms in the homes of sportswashing transgressors. 
 
-Text here...
+Not all of Statista's content is publically acessible, yet CMU's student access makes the company's dossier on sportswashing available for our purposes. Public opinion polls like the thoughts of Brits on the Saudi-led Newcastle United FC takeover in the EPL and the money spent by Saudi Arabia on hosting sports events 2014-2031 data can be visualized in the conflict and setup portions of the sportwashing story, respectively. 
 
-A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
+As the story and direction becomes more solidified, I will most likely need to scrape data from publically-accessible sources. For instance, the previous sketch of foreign-born investment in EPL clubs can be found via [club's official websites](https://www.tottenhamhotspur.com/the-club/investor-relations/shareholder-information/). [Transfermarkt](https://www.transfermarkt.us/premier-league/einnahmenausgaben/wettbewerb/GB1) provides easily accesible data on spending for soccer clubs around the world, which may be a solid inclusion in the overview section of money-in-sports.
 
 | Name | URL | Description |
 |------|-----|-------------|
@@ -42,7 +42,5 @@ A link to the publicly-accessible datasets you plan on using, or a link to a cop
 |   Statista   |  https://www-statista-com.cmu.idm.oclc.org/study/132367/sportswashing/  |   Various Sportswashing Data    |
 
 # Method and medium
-In a few sentences, you should document how you plan on completing your final project. 
-
-Text here...
+To complete my final project, I intend on utilizing Infogram and Flourish for wireframing and then creating mutiple dataviz either through Flourish or Tableau (if I am feeling courageous). Shorthand will be my go to medium for the project due to its user-friendly interface and cohesive display designs. These dataviz and presentation methods and mediums will enable me to tell a compelling story about one of sports most glaring concerns in sportswashing. 
 
