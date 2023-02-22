@@ -23,9 +23,10 @@ Unformity is key when gathering user feedback. Therefore, I decided to provide t
 ## Interview Findings
 Below, is a table documenting a general profile of each interviewee and their specific insights to the interview questions. 
 
-| Questions               | Interview 1 - A 64-year-old woman who does not watch soccer  | Interview 2 - A 23-year-old college student who is an avid soccer fan | Interview 3 - A 24-year-old college student who does not watch soccer |
+| Questions               | Interview 1 - A 64-year-old woman who *does not* watch soccer  | Interview 2 - A 23-year-old college student who *is* an avid soccer fan | Interview 3 - A 24-year-old college student who *does not* watch soccer |
 |-------------------------|--------------------------------|-------------|-------------|
-| How would you describe the story being told?  | Insightful feedback            |             |             |
+| How would you describe the story being told?  | - The story is clear in telling me about sportswashing and that it is bad in England
+- Call to action is a little cloudy|             |             |
 |                         |                                |             |             |
 |                         |                                |             |             |
 
