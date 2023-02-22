@@ -37,7 +37,7 @@ The findings from the user feedback interviews and their anticipated changes for
 | Storytelling elements are well-crafted| - Include specific insights and/or profiles of dubious actions of alleged sportswashing investors in the EPL<br>- Provide more text for context on sportswashing and investment in sports in setup section |
 | Color scheme is effective                                        |    - Exclude yellows from graphics as background of viz suffices                                                                            |
 | Word Cloud needs to be revisited       |   - Change chart type to better encapsulate the British media's wariness over potential sportswashing takeovers            | | Web page design differs from mobile phone display on Shorthand
-|    -  Focus less on movement of graphics in web page design as feel differs from mobile version                                     |                                                                                 |
+|    -  Focus less on movement of graphics in web page design as feel differs from mobile version                                                                                     
 
 Many common throughlines for story revisions came in the user feedback process. For the most part, the color scheme, story, and respective visualizations were crafted effectively. Yet I should make strides towards clarity through the strategic (and sparingly) usage of text.
 
