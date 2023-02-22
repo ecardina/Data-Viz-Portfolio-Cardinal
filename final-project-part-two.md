@@ -21,33 +21,29 @@ Unformity is key when gathering user feedback. Therefore, I decided to provide t
 |   Diagnose the effectiveness of the aesthetic choices   |  Does the color scheme aid in telling the story? If not, how would you change it?                |
 
 ## Interview Findings
-Below, is a table documenting a general profile of each interviewee and their specific insights to the interview questions. 
+Fortunately, the storytelling elements and color scheme were successful in the eyes of the interviewees. However, there are issues that will need to be revised before the final presentation. Below, is a table documenting a general profile of each interviewee and their specific insights to the interview questions. 
 
-| Questions               | Interview 1 - A 64-year-old woman who *does not* watch soccer  | Interview 2 - A 23-year-old college student who *is* an avid soccer fan | Interview 3 - A 24-year-old college student who *does not* watch soccer |
+| Questions               | Interview 1 -<br>A 64-year-old woman who *does not* watch soccer  | Interview 2 -<br>A 23-year-old college student who *is* an avid soccer fan | Interview 3 -<br>A 24-year-old college student who *does not* watch soccer |
 |-------------------------|--------------------------------|-------------|-------------|
-| How would you describe the story being told?  | - Story is clear in telling me about sportswashing and that it is bad in England<br>- Call to action is a little cloudy| - Clearly defined “sportswashing” and gave examples<br>- Unsure about how the “Celebrity Investors in Soccer” ties into the whole story           |             |
-|  Are the graphics clear and persuasive? If not, what would you suggest doing otherwise?                       |  - Graphics "need some changing"<br>- Font should be bolder under heading and names of celebrities in the first infographic<br>- Premier League revenue x-axis labels are too faint<br>- Personal freedoms viz needs a different color than yellow as "not sure where to look"                           | - Majority of visualizations effectively contributed to the author’s story and argument<br>- “Emirati, Chinese, and Saudi Ownership Spell Potential Sportswashing Attempts in England” viz left me asking "why is this important?"<br>- Give some more specific examples of measures taken to improve the reputation of some sporting events<br>- Include percentage signs after the values in the “4,000 British Adults Responses in October 2021 Survey” figure<br>- Add an apostrophe 's' to Adults in the survey<br>- Difficult to interpret the Word Cloud<br>- Include an explanation about how the Word Cloud figure had been generated and how it fits into the context of the story           |             |
-|   Does the color scheme aid in telling the story? If not, how would you change it?                       |  - Color scheme is "focused" and does not distract me                              |  - Liked consistency of color scheme and it helped to "focus" on the story<br>- Maintained adequate negative space<br>- Web browser preview had too much movement<br>- Organize the visualizations all centered to limit movement           |             |
-
+| How would you describe the story being told?  | - Story is clear in telling me about sportswashing and that it is bad in England<br>- Call to action is a little cloudy| - Clearly defined “sportswashing” and gave examples<br>- Unsure about how the “Celebrity Investors in Soccer” ties into the whole story           |  - Story is about money in soccer and how sportswashing is a growing issue in the sport           |
+|  Are the graphics clear and persuasive? If not, what would you suggest doing otherwise?                       |  - Graphics "need some changing"<br>- Font should be bolder under heading and names of celebrities in the first infographic<br>- Premier League revenue x-axis labels are too faint<br>- Personal freedoms viz needs a different color than yellow as "not sure where to look"                           | - Majority of visualizations effectively contributed to the author’s story and argument<br>- “Emirati, Chinese, and Saudi Ownership Spell Potential Sportswashing Attempts in England” viz left me asking "why is this important?"<br>- Give some more specific examples of measures taken to improve the reputation of some sporting events<br>- Include percentage signs after the values in the “4,000 British Adults Responses in October 2021 Survey” figure<br>- Add an apostrophe 's' to Adults in the survey<br>- Difficult to interpret the Word Cloud<br>- Include an explanation about how the Word Cloud figure had been generated and how it fits into the context of the story           |  - How does Word Cloud relate to the story?<br>- Provide more defined context if using the Word Cloud graphic           |
+|   Does the color scheme aid in telling the story? If not, how would you change it?                       |  - Color scheme is "focused" and does not distract me                              |  - Liked consistency of color scheme and it helped to "focus" on the story<br>- Maintained adequate negative space<br>- Web browser preview had too much movement<br>- Organize the visualizations all centered to limit movement           |  - Color scheme is "soothing"<br>- Color washing effect is clever           |
 
 # Identified Changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
-
-Text here!
+The findings from the user feedback interviews and their anticipated changes for the final project are included in the table below. 
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+| Storytelling elements are well-crafted| - Include specific insights and/or profiles of dubious actions of alleged sportswashing investors in the EPL<br>- Provide more text for context on sportswashing and investment in sports in setup section |
+| Color scheme is effective                                        |    - Exclude yellows from graphics as background of viz suffices                                                                            |
+| Word Cloud needs to be revisited       |   - Change chart type to better encapsulate the British media's wariness over potential sportswashing takeovers                                                                              | Web page design differs from mobile phone display on Shorthand
+|    -  Focus less on movement of graphics in web page design as feel differs from mobile version                                     |                                                                                 |
 
-> ...include any final thoughts you have here. 
+Many common throughlines for story revisions came in the user feedback process. For the most part, the color scheme, story, and respective visualizations were crafted effectively. Yet I should make strides towards clarity through the strategic (and sparingly) usage of text.
 
-Text here!
+The Word Cloud undoubtedly needs to be revised. Through this image, I wanted to encapsulate the British media's often adversarial affront they view with sportswashing interests making bids to own Premier League clubs.Ultimately, another dataviz will be more effective in communicating the pulse of journalists on the topic. 
 
 # Moodboards
-> If you did this optional part, include details here.  Otherwise remove this section
+Although a rather underepresented topic, sportswashing does connote a certain aesthetic. Namely, the topic is depicted with palettes of reds and yellows in infographics to reflect the ghastly human rights abuses and corruption often associated with these investors. Rather than replicate this trite depiction, I decided to employ lighter, warmer color [palette](https://coolors.co/palette/56445d-548687-f4d35e) of yellows and greenish-blues to capture the vibrancy of sports. However, I employ a literal whitewashing of the palette as the story progresses to symbolize the erasure of the fabric of sports at the hands of sportswashing. 
 
-Text here!
+Due to the seriousness of the topic, I decided to use a professional looking typography and font in PT Serif. 
