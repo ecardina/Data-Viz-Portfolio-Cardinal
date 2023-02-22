@@ -1,21 +1,18 @@
 | [Back to Home Page](https://ecardina.github.io/Data-Viz-Portfolio-Cardinal/) | [Visualizing Debt](https://ecardina.github.io/Data-Viz-Portfolio-Cardinal/visualizing-government-debt) | [Critique by Design](https://ecardina.github.io/Data-Viz-Portfolio-Cardinal/critique-by-design) | [Final Project I](https://ecardina.github.io/Data-Viz-Portfolio-Cardinal/final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
+# Wireframes / Storyboards
+Per [Part I](https://ecardina.github.io/Data-Viz-Portfolio-Cardinal/final-project-part-one) of the project, I utilized Flourish and Infogram to create more polished dataviz, yet ultimately wireframes of my sportswashing story. After formulating the visualizations, I embeded them in Shorthand to form a storyboard to visually represent the setup (e.g. framing money in soccer and defining sportswashing), conflict (e.g. presenting the issue of sportswashing in the English Premier League), and resolution (e.g. implying future sportswashing implications and including a call to action) portions of the narrative. You can view a preview of the the wireframes and storyboards on [Shorthand] (https://preview.shorthand.com/XcyWc0vycEkse1BT). 
 
-Text here!
+# User Research 
+As a novice in data visualization, it is critical to seek feedback on the visual and storytelling elements. The following sub-sections will identify the target audience I want to reach, the interview script I presented, and the results of three interviews I conducted to better guide my final story presentation. 
 
-# User research 
+## Target Audience
+Sportswashing is a relatively niche issue not particulary affecting the American sports industry. Personally, I did not know much about sportswashing or the narrative in England despite being a diehard supporter of the league and the club Tottenham Hotspur. This means that even the most devoted sports fans in this country do not necessarily understand the topic or its nuances--unless they are well-versed in international golf, autoracing, and soccer competitions. To bridge this knowledge gap, my primary audience is American soccer fans who are unaware of sportswashing and the implications it has in eroding the communal aspects of their beloved soccer clubs. Equipped with knowledge on sportswashing, readers/viewers of the story optmistically will grow a vested interest in protecting the identities of their club and combat sportswashing interests. 
 
-## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
+## Interview Process/Script
+To gather user feedback, I wanted to interview individuals representing a wide-spectrum of interests despite the focused target audience. Because in reality, the audience to publically-accessible material like this storyboard stumble across things that look and sound interesting in this age of information. Moreover, feedback from a more diverse group should aid in providing unique and common critiquing threads simultaneously that will help guide my revisions in the final iteration of the story. Of the three individuals I decided to interview, only one fits the target audience of American soccer fans with allegiances to the English Premier League. The other two are individuals without knowledge of sportswashing or soccer for that matter. 
 
-Text here!
-
-## Interview script
-> List the goals from your research, and the questions you intend to ask. 
-
-Text here!
+Unformity is key when gathering user feedback. Therefore, I decided to provide the same interivew script of three questions to the interviewees. Since the [Shorthand preview] (https://preview.shorthand.com/XcyWc0vycEkse1BT) of the storyboard is not text-heavy, I really wanted to center the interviews on how well the story is being depicted through the visualizations solely. 
 
 | Goal | Questions to Ask |
 |------|------------------|
@@ -24,9 +21,7 @@ Text here!
 |      |                  |
 
 
-Text here!
-
-## Interview findings
+## Interview Findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
 Text here!
@@ -38,7 +33,7 @@ Text here!
 |                         |                                |             |             |
 
 
-# Identified changes for Part III
+# Identified Changes for Part III
 > Document the changes you plan on implementing next week to address any issues identified.  
 
 Text here!
@@ -55,7 +50,7 @@ Text here!
 
 Text here!
 
-# Moodboards / personas
+# Moodboards
 > If you did this optional part, include details here.  Otherwise remove this section
 
 Text here!
