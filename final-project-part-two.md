@@ -25,10 +25,9 @@ Below, is a table documenting a general profile of each interviewee and their sp
 
 | Questions               | Interview 1 - A 64-year-old woman who *does not* watch soccer  | Interview 2 - A 23-year-old college student who *is* an avid soccer fan | Interview 3 - A 24-year-old college student who *does not* watch soccer |
 |-------------------------|--------------------------------|-------------|-------------|
-| How would you describe the story being told?  | - The story is clear in telling me about sportswashing and that it is bad in England
-- Call to action is a little cloudy|             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+| How would you describe the story being told?  | - Story is clear in telling me about sportswashing and that it is bad in England- Call to action is a little cloudy|             |             |
+|  Are the graphics clear and persuasive? If not, what would you suggest doing otherwise?                       |  - Graphics "need some changing" - Font should be bolder under heading and names of celebrities in the first infographic - Premier League revenue x-axis labels are too faint - Personal freedoms viz needs a different color than yellow as "not sure where to look"                           |             |             |
+|   Does the color scheme aid in telling the story? If not, how would you change it?                       |  - Color scheme is "focused" and does not distract me                              |             |             |
 
 
 # Identified Changes for Part III
