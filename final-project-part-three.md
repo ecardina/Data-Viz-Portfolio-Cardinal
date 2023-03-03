@@ -14,6 +14,8 @@ Similar to the narrative tightening on the EPL, I decided to outright delete the
 
 To bolster the synthesis of the data and story, I added a few more visualizations. In the "Investment in Football" intro, I added a visualization comparing the net worth of the most valuable EPL clubs to iconic American NBA teams to contextualize how big of a business the EPL is on the global stage. I then added a viz for each of the sportswashing trangressors to underscore the impact their purchases have made on the legacy of their clubs in spite of their human rights abuses. Similarly, I added visualizations and call-out-statistics for the case study on Leicester City as an example of benevolent foreign investment. Finally, I built out a more deliberate call to action section with links to articles and websites for more information on how fans can protest the ongoing sportswashing attempts in the EPL.
 
+Per the scope of this project, I did not focus on the mobile view of the story on Shorthand as it needed only to be presented in class via desktop view. I do believe the centered shifting of the text enabled a more clear story on the mobile view, although I admittedly did not check. 
+
 ## The Audience
 My audience of American EPL fans remained the same in the final iteration of the Shorthand story. To primarily address the needs of the audience, I added the sections specifically outlining the transgressors of sportswashing in the league, the contrast case of Leicester City, and their accompanying visualizations per the instruction of my one interviewee who fit the target demographic. 
 
