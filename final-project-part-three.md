@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [Back to Home Page](https://ecardina.github.io/Data-Viz-Portfolio-Cardinal/) | [Visualizing Debt](https://ecardina.github.io/Data-Viz-Portfolio-Cardinal/visualizing-government-debt) | [Critique by Design](https://ecardina.github.io/Data-Viz-Portfolio-Cardinal/critique-by-design) | [Final Project I](https://ecardina.github.io/Data-Viz-Portfolio-Cardinal/final-project-part-one) | [Final Project II](https://ecardina.github.io/Data-Viz-Portfolio-Cardinal/final-project-part-two) | [Final Project III](https://ecardina.github.io/Data-Viz-Portfolio-Cardinal/final-project-part-three) |
 
 # The Final Data Story
 Read the final Shorthand story entitled, "Sportswashing: Money Over Culture" [here](https://carnegiemellon.shorthandstories.com/sportswashing-money-over-culture/index.html)
@@ -17,10 +17,8 @@ To bolster the synthesis of the data and story, I added a few more visualization
 ## The Audience
 My audience of American EPL fans remained the same in the final iteration of the Shorthand story. To primarily address the needs of the audience, I added the sections specifically outlining the transgressors of sportswashing in the league, the contrast case of Leicester City, and their accompanying visualizations per the instruction of my one interviewee who fit the target demographic. 
 
-
 ## References
 To locate my references, please refer to the end section of the [Shorthand story](https://carnegiemellon.shorthandstories.com/sportswashing-money-over-culture/index.html). 
 
 # Final Thoughts
 Despite some nervy moments of stress and frustration from the learning curves of data visualization software, I really enjoyed working on this project. If given more time, I would have added standardized dataviz profiles delinearing the sportswashing aggressors (e.g. their spikes in net spending). Also, I intended for the bar chart race of historical spending from the EPL to be a cumulative count rather than a year to year comparison but could not troubleshoot the viz on Flourish per timing constraints. I do believe the call-out statistic of total expenditures helped overcome this visual shortcoming. Ultimately, I would have liked to build my visualizations in Tableau; however, my relative familarity with Flourish allowed for quicker production of viz to deliver the final project. With a stronger grasp of data visualization building, I will certainly try my hand at Tableau in the future! 
-
