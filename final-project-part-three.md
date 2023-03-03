@@ -1,12 +1,13 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # The Final Data Story
-> Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
-
-Read on the final Shorthand story [here](https://carnegiemellon.shorthandstories.com/sportswashing-money-over-culture/index.html)
+Read the final Shorthand story entitled, "Sportswashing: Money Over Culture" [here](https://carnegiemellon.shorthandstories.com/sportswashing-money-over-culture/index.html)
 
 # Changes Made Since Part II
 > Include few paragraphs that reflects on changes you made since the completion of Part II. 
+To alleviate some of the stress of the learning curve of Shorthand and dataviz, I created an impact versus feasibility visualization to prioritize my changes outlined in the user feedback from Part II. 
+![Impact Versus Feasability Viz](./Feasibility Viz.jpg)
+Per the above image, I began making changes from the upper right and worked my way down in a southwestern movement to maximize the most feasible/impactful changes to the audience. Firstly, I altered the snaking orientation of the text and dataviz in Shorthand to be more centered and therefore minimize eye travel when processing the story. 
 FEASABILITY GRAPHIC HERE
 Text here!
 
